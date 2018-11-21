@@ -572,11 +572,11 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 75%;
+    height: 90vh;
     background-color: #fff;
     box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
     border-radius: 3px;
-    display: table;
-    overflow: hidden;
+    overflow: auto;
     opacity: 0;
     transform: translate(-50%, -50%) scale(0.25);
     transition: all .5s .2s; }
