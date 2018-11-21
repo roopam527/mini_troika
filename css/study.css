@@ -26,7 +26,7 @@ body {
       .container .side-header {
         height: auto; } }
     .container .side-header.pe {
-      background: linear-gradient(to top right, rgba(255, 185, 0, 0.85), rgba(255, 119, 48, 0.85)), url(../../img/pe.jpeg);
+      background: linear-gradient(to top right, rgba(255, 185, 0, 0.85), rgba(255, 119, 48, 0.85)), url(../img/pe.jpeg);
       background-size: 100%; }
     .container .side-header.me {
       background: linear-gradient(to top right, rgba(41, 152, 255, 0.85), rgba(86, 67, 250, 0.85)), url(../img/me.jpeg);
@@ -90,7 +90,7 @@ body {
     background: linear-gradient(to top right, rgba(255, 185, 0, 0.85), rgba(255, 119, 48, 0.85)), url(../img/nat-6.jpeg);
     background-size: 100%; }
   .card-1.pe {
-    background: linear-gradient(to top right, rgba(255, 185, 0, 0.85), rgba(255, 119, 48, 0.85)), url(../../img/pe.jpeg);
+    background: linear-gradient(to top right, rgba(255, 185, 0, 0.85), rgba(255, 119, 48, 0.85)), url(../img/pe.jpeg);
     background-size: 100%; }
 
 .card-2 {
@@ -109,7 +109,7 @@ body {
     background: linear-gradient(to top right, rgba(237, 33, 58, 0.85), rgba(147, 41, 30, 0.85)), url(../img/nat-6.jpeg);
     background-size: 100%; }
   .card-2.pe {
-    background: linear-gradient(to top right, rgba(237, 33, 58, 0.85), rgba(147, 41, 30, 0.85)), url(../../img/pe.jpeg);
+    background: linear-gradient(to top right, rgba(237, 33, 58, 0.85), rgba(147, 41, 30, 0.85)), url(../img/pe.jpeg);
     background-size: 100%; }
 
 .card-3 {
@@ -128,7 +128,7 @@ body {
     background: linear-gradient(to top right, rgba(41, 152, 255, 0.85), rgba(86, 67, 250, 0.85)), url(../img/nat-6.jpeg);
     background-size: 100%; }
   .card-3.pe {
-    background: linear-gradient(to top right, rgba(41, 152, 255, 0.85), rgba(86, 67, 250, 0.85)), url(../../img/pe.jpeg);
+    background: linear-gradient(to top right, rgba(41, 152, 255, 0.85), rgba(86, 67, 250, 0.85)), url(../img/pe.jpeg);
     background-size: 100%; }
 
 .card-4 {
@@ -147,7 +147,7 @@ body {
     background: linear-gradient(to top right, rgba(126, 213, 111, 0.85), rgba(40, 180, 133, 0.85)), url(../img/nat-6.jpeg);
     background-size: 100%; }
   .card-4.pe {
-    background: linear-gradient(to top right, rgba(126, 213, 111, 0.85), rgba(40, 180, 133, 0.85)), url(../../img/pe.jpeg);
+    background: linear-gradient(to top right, rgba(126, 213, 111, 0.85), rgba(40, 180, 133, 0.85)), url(../img/pe.jpeg);
     background-size: 100%; }
 
 .card-5 {
@@ -166,7 +166,7 @@ body {
     background: linear-gradient(to top right, rgba(142, 45, 226, 0.85), rgba(74, 0, 224, 0.85)), url(../img/nat-6.jpeg);
     background-size: 100%; }
   .card-5.pe {
-    background: linear-gradient(to top right, rgba(142, 45, 226, 0.85), rgba(74, 0, 224, 0.85)), url(../../img/pe.jpeg);
+    background: linear-gradient(to top right, rgba(142, 45, 226, 0.85), rgba(74, 0, 224, 0.85)), url(../img/pe.jpeg);
     background-size: 100%; }
 
 .card-6 {
@@ -185,7 +185,7 @@ body {
     background: linear-gradient(to top right, rgba(237, 33, 58, 0.85), rgba(147, 41, 30, 0.85)), url(../img/nat-6.jpeg);
     background-size: 100%; }
   .card-6.pe {
-    background: linear-gradient(to top right, rgba(237, 33, 58, 0.85), rgba(147, 41, 30, 0.85)), url(../../img/pe.jpeg);
+    background: linear-gradient(to top right, rgba(237, 33, 58, 0.85), rgba(147, 41, 30, 0.85)), url(../img/pe.jpeg);
     background-size: 100%; }
 
 a {
